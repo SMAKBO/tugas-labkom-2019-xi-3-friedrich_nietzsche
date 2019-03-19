@@ -7,4 +7,4 @@ tugas-labkom-2019-xi-3-friedrich_nietzsche created by GitHub Classroom
 5. Lulu Alina R. R. (16.62.08395)
 6. Naomi Labibah (17.63.08765)
 7. M. Satrianur Arfandi R. (18.64.08
-8. Siti Nurcella (17.63.08823)
+8. Siti Nurcella E. M. (17.63.08823)
