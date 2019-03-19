@@ -1,4 +1,4 @@
-# tugas-labkom-2019-xi-3-friedrich_nietzsche
+Friedrich Nietzsche# tugas-labkom-2019-xi-3-friedrich_nietzsche
 tugas-labkom-2019-xi-3-friedrich_nietzsche created by GitHub Classroom
 1. Fardhan Roiza (Ketua) (17.63.08647)
 2. Felix Nadhif A. (17.63.08653)
