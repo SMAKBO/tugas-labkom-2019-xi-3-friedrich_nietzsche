@@ -9,5 +9,5 @@ tugas-labkom-2019-xi-3-friedrich_nietzsche created by GitHub Classroom
 7. M. Satrianur Arfandi R. (18.64.08
 8. Siti Nurcella E. M. (17.63.08823)
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" />
+aloha <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" />
 taruh di bagian head atas title
