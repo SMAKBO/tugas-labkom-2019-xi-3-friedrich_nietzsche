@@ -17,6 +17,15 @@ tugas-labkom-2019-xi-3-friedrich_nietzsche created by GitHub Classroom
   <ul>
     <li><i style="color: cornflowerblue" class="fas fa-home"></i><a href="https://www.instagram.com/felixnadhif/">Home</a></li>
     <li><i style="color: cornflowerblue" class="far fa-id-card"></i><a href="#">Identity</a></li>
+    <!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" />
+	<title></title>
+</head>
+<body>
+
+</body>
+</html>
     <li><i style="color: cornflowerblue" class="fas fa-history"></i><a href="#">History</a></li>
     <li><i style="color: cornflowerblue" class="fas fa-quote-right"></i><a href="#">Philosophy</a></li>
     <li><i style="color: cornflowerblue" class="fas fa-users"></i><a href="#">About us</a></li>
