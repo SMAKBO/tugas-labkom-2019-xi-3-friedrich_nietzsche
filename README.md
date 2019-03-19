@@ -20,7 +20,7 @@ tugas-labkom-2019-xi-3-friedrich_nietzsche created by GitHub Classroom
     <!DOCTYPE html>
 <html>
 <head> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" />
-	<title></title>
+	<title>Friedrich Nietzsche</title>
 </head>
 <body>
 
