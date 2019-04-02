@@ -4,7 +4,7 @@
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   <nav class="breadcrumb is-centered" aria-label="breadcrumbs">
   <ul>
-    <li><i style="color: cornflowerblue" class="fas fa-home"></i><a href="inti.html">Home</a></li>
+    <li><i style="color: cornflowerblue" class="fas fa-home"></i><a href="Home.html">Home</a></li>
     <li><i style="color: cornflowerblue" class="far fa-id-card"></i><a href="Identity.html">Identity</a></li>
     <li><i style="color: cornflowerblue" class="fas fa-history"></i><a href="History.html">History</a></li>
     <li><i style="color: cornflowerblue" class="fas fa-quote-right"></i><a href="Philossophy.html">Philossophy</a></li>
@@ -13,10 +13,108 @@
   </ul>
 </nav>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css" />
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 25%;
+  padding: 5px;
+} 
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+</style> 
   <title>pelik</title>
 </head>
-<body>
-  <p>Ini tentang kita</p>
-
+<body style="background-image: ">
+<h1 
+  style="font-size: 100px; 
+  text-align: center; 
+  font-family: Century Gothic;
+  background-color: #383838;
+  color: cornflowerblue;">
+    CREATOR
+  </h1>
+ <div class="row">
+   <div class="column">
+    <div class="container">
+      <img src="fardhan.JPG" alt="avatar" class="image">
+  <div class="overlay">Fardhan Roiza</div>
+</div>
+  <div class="row">
+      <div class="column">
+    <div class="container">
+    <img src="felix.JPG" alt="avatar" class="image">
+  <div class="overlay">Felix Nadhif Athalla</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="cella.JPG" alt="avatar" class="image">
+  <div class="overlay">Siti Nurcella</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="arfan.JPG" alt="avatar" class="image">
+  <div class="overlay">M. Satrianur Arfandi</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="naomi.JPG" alt="avatar" class="image">
+  <div class="overlay">Naomi Labibah</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="laras.JPG" alt="avatar" class="image">
+  <div class="overlay">Laras Adistya</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="Lulu.JPG" alt="Lulu" class="image">
+  <div class="overlay">Lulu Alina R.R.</div>
+</div>
+<div class="column">
+    <div class="container">
+    <img src="kadisha.JPG" alt="avatar" class="image">
+  <div class="overlay">Kadisha Azka Fajriani</div>
+</div>
 </body>
 </html>
